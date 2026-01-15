@@ -2,7 +2,7 @@
 
 I'm Bryan, located in Mexico. Former lawyer, currently learning Full Stack Web Development, shifted to this area since I was always tech sabby & curious overall about technology, building & creating.
 
-- 🔭 I’m currently working on full; stack web development projects, examples, a coffeeshop page & much more to come!
+- 🔭 I’m currently working on full stack web development projects, examples, a coffeeshop page & much more to come!
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React & AWS.
 - 👯 I’m looking to collaborate on any type of project I can get my hands on, to gather experience & knowledge overall.
 
